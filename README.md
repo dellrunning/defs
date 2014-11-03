@@ -1,4 +1,5 @@
 defs
-====
+----------------------------------------------------
 
-Distribution &amp; Embedded File System
+1. What's defs ?
+   defs means "distribution and embedded file system".
